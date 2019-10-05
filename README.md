@@ -1,4 +1,4 @@
-# Factors-of-High-Crime-Rate-in-Victoria-Data-Processing-and-Analysis-
+# Social Issues and Location vs Crime Rate in Victoria
 
 ### how to run
 1. clone or download the repository
