@@ -6,7 +6,7 @@
 3. run jupyter notebook (install jupyter notebook if you haven't, brew install jupyter)
 4. wait until your browser is opened, then click on the file 'Data Processing and Analysis Code.ipynb'
 
-### data process and analysis
+### code and the output:
 ![picture](readme-img/1.png)
 ![picture](readme-img/2.png)
 ![picture](readme-img/3.png)
