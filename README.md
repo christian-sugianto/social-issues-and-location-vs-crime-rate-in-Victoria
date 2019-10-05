@@ -4,7 +4,7 @@
 1. clone or download the repository
 2. cd (change directory) to the downloaded repository
 3. run jupyter notebook (install jupyter notebook if you haven't, brew install jupyter)
-4. wait until browser is opened, then click on the file 'Data Processing and Analysis Code.ipynb'
+4. wait until your browser is opened, then click on the file 'Data Processing and Analysis Code.ipynb'
 
 ### data process and analysis
 ![picture](readme-img/1.png)
@@ -33,3 +33,10 @@
 ![picture](readme-img/24.png)
 ![picture](readme-img/25.png)
 ![picture](readme-img/26.png)
+![picture](readme-img/27.png)
+![picture](readme-img/28.png)
+![picture](readme-img/29.png)
+![picture](readme-img/30.png)
+![picture](readme-img/31.png)
+![picture](readme-img/32.png)
+![picture](readme-img/33.png)
